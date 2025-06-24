@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"MaterialAssignment": "UnrealEditor-MaterialAssignment.dll",
+		"MaterialAssignmentManager": "UnrealEditor-MaterialAssignmentManager.dll"
+	}
+}

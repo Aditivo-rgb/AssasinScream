@@ -1,0 +1,12 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\PCH.AutoSpline.h.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\Module.AutoSpline.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\AutoSpline.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\ASAutoSplineBase.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\ASCustomClassSpline.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\ASDeformMeshSpline.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\ASSplineComponent.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\AutoSpline\\ASStaticMeshDistributionSpline.cpp.obj"
+	]
+}

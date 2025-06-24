@@ -1,0 +1,9 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"CameraManager": "UnrealEditor-CameraManager.dll",
+		"LightingGame": "UnrealEditor-LightingGame.dll",
+		"LightingTool": "UnrealEditor-LightingTool.dll"
+	}
+}

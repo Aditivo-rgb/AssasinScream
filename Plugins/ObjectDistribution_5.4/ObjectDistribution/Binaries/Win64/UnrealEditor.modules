@@ -1,0 +1,8 @@
+{
+	"BuildId": "33043543",
+	"Modules": 
+	{
+		"ObjectDistribution": "UnrealEditor-ObjectDistribution.dll",
+		"ObjectDistributionManager": "UnrealEditor-ObjectDistributionManager.dll"
+	}
+}

@@ -1,0 +1,8 @@
+{
+	"OutputFiles": [
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LightingGame\\PCH.LightingGame.h.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LightingGame\\Module.LightingGame.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LightingGame\\LightingGame.cpp.obj",
+		"..\\..\\..\\x64\\UnrealGame\\Shipping\\LightingGame\\LTLightSensor.cpp.obj"
+	]
+}
